@@ -1,0 +1,30 @@
+区间再现
+$$
+\int_a^bf(x)dx=\int_a^bf(a+b-x)dx
+$$
+归一公式
+$$
+\int_a^bf(x)dx=(b-a)\int_0^1f[a+(b-a)x]dx
+$$
+
+$$
+\int_a^bf(x)dx=\int_{-\frac{\pi}{2}}^{\frac{\pi}{2}}f(\frac{a+b}{2}+\frac{b-a}{2}\sin t)\frac{b-a}{2}\cos t\ dt
+$$
+
+区间对称转化
+$$
+\int_{-a}^{a}f(x)dx=\int_0^a[f(x)+f(-x)]dx
+$$
+三角函数结论
+$$
+\int_0^{\frac{\pi}{2}}f(\sin x)dx = \int_0^{\frac{\pi}{2}}f(\cos x)dx
+$$
+
+$$
+\int_0^{\pi}f(\sin x)dx=2 \int_0^{\frac{\pi}{2}}f(\cos x)dx
+$$
+
+$$
+\int_0^{\pi}xf(\sin x)dx=\frac{\pi}{2}\int_0^{\pi}f(\sin x)dx
+$$
+
