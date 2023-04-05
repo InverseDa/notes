@@ -1,4 +1,4 @@
-# Install script for directory: /home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner
+# Install script for directory: /home/miaokeda/Documents/notes/编译原理/实验二/TINY Scanner
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/miaokeda/Documents/notes/编译原理/实验二/TINY Scanner/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

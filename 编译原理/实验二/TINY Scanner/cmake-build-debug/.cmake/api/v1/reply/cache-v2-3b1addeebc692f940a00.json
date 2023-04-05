@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/cmake-build-debug"
+			"value" : "/home/miaokeda/Documents/notes/\u7f16\u8bd1\u539f\u7406/\u5b9e\u9a8c\u4e8c/TINY Scanner/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -543,7 +543,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/miaokeda/Documents/notes/\u7f16\u8bd1\u539f\u7406/\u5b9e\u9a8c\u4e8c/TINY Scanner/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -603,7 +603,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner"
+			"value" : "/home/miaokeda/Documents/notes/\u7f16\u8bd1\u539f\u7406/\u5b9e\u9a8c\u4e8c/TINY Scanner"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1135,7 +1135,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/cmake-build-debug"
+			"value" : "/home/miaokeda/Documents/notes/\u7f16\u8bd1\u539f\u7406/\u5b9e\u9a8c\u4e8c/TINY Scanner/cmake-build-debug"
 		},
 		{
 			"name" : "TINY_IS_TOP_LEVEL",
@@ -1159,7 +1159,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner"
+			"value" : "/home/miaokeda/Documents/notes/\u7f16\u8bd1\u539f\u7406/\u5b9e\u9a8c\u4e8c/TINY Scanner"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

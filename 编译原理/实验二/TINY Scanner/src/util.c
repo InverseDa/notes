@@ -22,7 +22,18 @@ void printToken( TokenType token, const char* tokenString )
     case UNTIL:
     case READ:
     case WRITE:
-      fprintf(listing,
+        //for tiny++
+      case INT:
+      case STRING:
+      case BOOL:
+      case DO:
+      case WHILE:
+      case OR:
+      case AND:
+      case NOT:
+      case TTRUE:
+      case FFALSE:
+          fprintf(listing,
          "reserved word: %s\n",tokenString);
       break;
     case ASSIGN: fprintf(listing,":=\n"); break;
@@ -36,18 +47,18 @@ void printToken( TokenType token, const char* tokenString )
     case TIMES: fprintf(listing,"*\n"); break;
     case OVER: fprintf(listing,"/\n"); break;
     case ENDFILE: fprintf(listing,"EOF\n"); break;
-    case NUM:
-      fprintf(listing,
-          "NUM, val= %s\n",tokenString);
-      break;
-    case ID:
-      fprintf(listing,
-          "ID, name= %s\n",tokenString);
-      break;
-    case ERROR:
-      fprintf(listing,
-          "ERROR: %s\n",tokenString);
-      break;
+          // for tiny++
+      case COMMA: fprintf(listing,",\n"); break;
+      case LE: fprintf(listing,"<=\n"); break;
+      case GE: fprintf(listing,">=\n"); break;
+      case GT: fprintf(listing,">\n"); break;
+        //end
+    case NUM: fprintf(listing,"NUM, val= %s\n",tokenString); break;
+    case ID: fprintf(listing,"ID, name= %s\n",tokenString); break;
+    case ERROR: fprintf(listing,"ERROR: %s\n",tokenString); break;
+    // for tiny++
+      case STR: fprintf(listing,"STR, string=: %s\n",tokenString); break;
+
     default: /* should never happen */
       fprintf(listing,"Unknown token: %d\n",token);
   }

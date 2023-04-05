@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "TINY::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-TINY-Debug-25d367e713a959e37a72.json",
+					"jsonFile" : "target-TINY-Debug-4a7127d618c12a78d27a.json",
 					"name" : "TINY",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/build",
-		"source" : "/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner"
+		"build" : "/home/miaokeda/Documents/notes/\u7f16\u8bd1\u539f\u7406/\u5b9e\u9a8c\u4e8c/TINY Scanner/cmake-build-debug",
+		"source" : "/home/miaokeda/Documents/notes/\u7f16\u8bd1\u539f\u7406/\u5b9e\u9a8c\u4e8c/TINY Scanner"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 5
+		"minor" : 4
 	}
 }

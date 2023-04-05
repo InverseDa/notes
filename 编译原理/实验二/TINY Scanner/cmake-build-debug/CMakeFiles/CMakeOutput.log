@@ -10,7 +10,7 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
 
-The C compiler identification is Clang, found in "/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/a.out"
+The C compiler identification is Clang, found in "/home/miaokeda/Documents/notes/编译原理/实验二/TINY Scanner/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/a.out"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: /usr/bin/clang++ 
@@ -23,12 +23,12 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
 
-The CXX compiler identification is Clang, found in "/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/a.out"
+The CXX compiler identification is Clang, found in "/home/miaokeda/Documents/notes/编译原理/实验二/TINY Scanner/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/a.out"
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-RDGv5N
+Change Dir: /home/miaokeda/Documents/notes/编译原理/实验二/TINY Scanner/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-NFhALO
 
-Run Build Command(s):/home/miaokeda/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.174/bin/ninja/linux/x64/ninja cmTC_c1023 && [1/2] Building C object CMakeFiles/cmTC_c1023.dir/CMakeCCompilerABI.c.o
+Run Build Command(s):/home/miaokeda/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.174/bin/ninja/linux/x64/ninja cmTC_7c15d && [1/2] Building C object CMakeFiles/cmTC_7c15d.dir/CMakeCCompilerABI.c.o
 clang version 15.0.7
 Target: x86_64-pc-linux-gnu
 Thread model: posix
@@ -40,7 +40,7 @@ Candidate multilib: .;@m64
 Candidate multilib: 32;@m32
 Selected multilib: .;@m64
  (in-process)
- "/usr/bin/clang-15" -cc1 -triple x86_64-pc-linux-gnu -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=gdb -v "-fcoverage-compilation-dir=/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-RDGv5N" -resource-dir /usr/lib/clang/15.0.7 -dependency-file CMakeFiles/cmTC_c1023.dir/CMakeCCompilerABI.c.o.d -MT CMakeFiles/cmTC_c1023.dir/CMakeCCompilerABI.c.o -sys-header-deps -internal-isystem /usr/lib/clang/15.0.7/include -internal-isystem /usr/local/include -internal-isystem /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../x86_64-pc-linux-gnu/include -internal-externc-isystem /include -internal-externc-isystem /usr/include "-fdebug-compilation-dir=/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-RDGv5N" -ferror-limit 19 -stack-protector 2 -fgnuc-version=4.2.1 -fcolor-diagnostics -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_c1023.dir/CMakeCCompilerABI.c.o -x c /home/miaokeda/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.174/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeCCompilerABI.c
+ "/usr/bin/clang-15" -cc1 -triple x86_64-pc-linux-gnu -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=gdb -v "-fcoverage-compilation-dir=/home/miaokeda/Documents/notes/编译原理/实验二/TINY Scanner/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-NFhALO" -resource-dir /usr/lib/clang/15.0.7 -dependency-file CMakeFiles/cmTC_7c15d.dir/CMakeCCompilerABI.c.o.d -MT CMakeFiles/cmTC_7c15d.dir/CMakeCCompilerABI.c.o -sys-header-deps -internal-isystem /usr/lib/clang/15.0.7/include -internal-isystem /usr/local/include -internal-isystem /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../x86_64-pc-linux-gnu/include -internal-externc-isystem /include -internal-externc-isystem /usr/include "-fdebug-compilation-dir=/home/miaokeda/Documents/notes/编译原理/实验二/TINY Scanner/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-NFhALO" -ferror-limit 19 -stack-protector 2 -fgnuc-version=4.2.1 -fcolor-diagnostics -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_7c15d.dir/CMakeCCompilerABI.c.o -x c /home/miaokeda/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.174/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeCCompilerABI.c
 clang -cc1 version 15.0.7 based upon LLVM 15.0.7 default target x86_64-pc-linux-gnu
 ignoring nonexistent directory "/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../x86_64-pc-linux-gnu/include"
 ignoring nonexistent directory "/include"
@@ -50,7 +50,7 @@ ignoring nonexistent directory "/include"
  /usr/local/include
  /usr/include
 End of search list.
-[2/2] Linking C executable cmTC_c1023
+[2/2] Linking C executable cmTC_7c15d
 clang version 15.0.7
 Target: x86_64-pc-linux-gnu
 Thread model: posix
@@ -61,7 +61,7 @@ Selected GCC installation: /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1
 Candidate multilib: .;@m64
 Candidate multilib: 32;@m32
 Selected multilib: .;@m64
- "/usr/bin/ld" -pie --build-id --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_c1023 /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/Scrt1.o /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/crti.o /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/crtbeginS.o -L/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1 -L/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/lib -L/usr/lib CMakeFiles/cmTC_c1023.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/crtendS.o /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/crtn.o
+ "/usr/bin/ld" -pie --build-id --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_7c15d /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/Scrt1.o /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/crti.o /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/crtbeginS.o -L/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1 -L/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/lib -L/usr/lib CMakeFiles/cmTC_7c15d.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/crtendS.o /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/crtn.o
 
 
 
@@ -80,9 +80,9 @@ Parsed C implicit include dir info from above output: rv=done
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld\.lld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-RDGv5N]
+  ignore line: [Change Dir: /home/miaokeda/Documents/notes/编译原理/实验二/TINY Scanner/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-NFhALO]
   ignore line: []
-  ignore line: [Run Build Command(s):/home/miaokeda/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.174/bin/ninja/linux/x64/ninja cmTC_c1023 && [1/2] Building C object CMakeFiles/cmTC_c1023.dir/CMakeCCompilerABI.c.o]
+  ignore line: [Run Build Command(s):/home/miaokeda/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.174/bin/ninja/linux/x64/ninja cmTC_7c15d && [1/2] Building C object CMakeFiles/cmTC_7c15d.dir/CMakeCCompilerABI.c.o]
   ignore line: [clang version 15.0.7]
   ignore line: [Target: x86_64-pc-linux-gnu]
   ignore line: [Thread model: posix]
@@ -97,7 +97,7 @@ Parsed C implicit link information from above output:
   ignore line: [Selected multilib: .]
   ignore line: [@m64]
   ignore line: [ (in-process)]
-  ignore line: [ "/usr/bin/clang-15" -cc1 -triple x86_64-pc-linux-gnu -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=gdb -v "-fcoverage-compilation-dir=/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-RDGv5N" -resource-dir /usr/lib/clang/15.0.7 -dependency-file CMakeFiles/cmTC_c1023.dir/CMakeCCompilerABI.c.o.d -MT CMakeFiles/cmTC_c1023.dir/CMakeCCompilerABI.c.o -sys-header-deps -internal-isystem /usr/lib/clang/15.0.7/include -internal-isystem /usr/local/include -internal-isystem /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../x86_64-pc-linux-gnu/include -internal-externc-isystem /include -internal-externc-isystem /usr/include "-fdebug-compilation-dir=/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-RDGv5N" -ferror-limit 19 -stack-protector 2 -fgnuc-version=4.2.1 -fcolor-diagnostics -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_c1023.dir/CMakeCCompilerABI.c.o -x c /home/miaokeda/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.174/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeCCompilerABI.c]
+  ignore line: [ "/usr/bin/clang-15" -cc1 -triple x86_64-pc-linux-gnu -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=gdb -v "-fcoverage-compilation-dir=/home/miaokeda/Documents/notes/编译原理/实验二/TINY Scanner/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-NFhALO" -resource-dir /usr/lib/clang/15.0.7 -dependency-file CMakeFiles/cmTC_7c15d.dir/CMakeCCompilerABI.c.o.d -MT CMakeFiles/cmTC_7c15d.dir/CMakeCCompilerABI.c.o -sys-header-deps -internal-isystem /usr/lib/clang/15.0.7/include -internal-isystem /usr/local/include -internal-isystem /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../x86_64-pc-linux-gnu/include -internal-externc-isystem /include -internal-externc-isystem /usr/include "-fdebug-compilation-dir=/home/miaokeda/Documents/notes/编译原理/实验二/TINY Scanner/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-NFhALO" -ferror-limit 19 -stack-protector 2 -fgnuc-version=4.2.1 -fcolor-diagnostics -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_7c15d.dir/CMakeCCompilerABI.c.o -x c /home/miaokeda/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.174/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeCCompilerABI.c]
   ignore line: [clang -cc1 version 15.0.7 based upon LLVM 15.0.7 default target x86_64-pc-linux-gnu]
   ignore line: [ignoring nonexistent directory "/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../x86_64-pc-linux-gnu/include"]
   ignore line: [ignoring nonexistent directory "/include"]
@@ -107,7 +107,7 @@ Parsed C implicit link information from above output:
   ignore line: [ /usr/local/include]
   ignore line: [ /usr/include]
   ignore line: [End of search list.]
-  ignore line: [[2/2] Linking C executable cmTC_c1023]
+  ignore line: [[2/2] Linking C executable cmTC_7c15d]
   ignore line: [clang version 15.0.7]
   ignore line: [Target: x86_64-pc-linux-gnu]
   ignore line: [Thread model: posix]
@@ -121,7 +121,7 @@ Parsed C implicit link information from above output:
   ignore line: [@m32]
   ignore line: [Selected multilib: .]
   ignore line: [@m64]
-  link line: [ "/usr/bin/ld" -pie --build-id --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_c1023 /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/Scrt1.o /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/crti.o /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/crtbeginS.o -L/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1 -L/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/lib -L/usr/lib CMakeFiles/cmTC_c1023.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/crtendS.o /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/crtn.o]
+  link line: [ "/usr/bin/ld" -pie --build-id --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_7c15d /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/Scrt1.o /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/crti.o /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/crtbeginS.o -L/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1 -L/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/lib -L/usr/lib CMakeFiles/cmTC_7c15d.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/crtendS.o /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/crtn.o]
     arg [/usr/bin/ld] ==> ignore
     arg [-pie] ==> ignore
     arg [--build-id] ==> ignore
@@ -131,7 +131,7 @@ Parsed C implicit link information from above output:
     arg [-dynamic-linker] ==> ignore
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_c1023] ==> ignore
+    arg [cmTC_7c15d] ==> ignore
     arg [/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/Scrt1.o] ==> obj [/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/Scrt1.o]
     arg [/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/crti.o] ==> obj [/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/crti.o]
     arg [/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/crtbeginS.o] ==> obj [/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/crtbeginS.o]
@@ -141,7 +141,7 @@ Parsed C implicit link information from above output:
     arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
     arg [-L/lib] ==> dir [/lib]
     arg [-L/usr/lib] ==> dir [/usr/lib]
-    arg [CMakeFiles/cmTC_c1023.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_7c15d.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lgcc] ==> lib [gcc]
     arg [--as-needed] ==> ignore
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -171,9 +171,9 @@ Parsed C implicit link information from above output:
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: /home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-cibGEu
+Change Dir: /home/miaokeda/Documents/notes/编译原理/实验二/TINY Scanner/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-MpdrC3
 
-Run Build Command(s):/home/miaokeda/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.174/bin/ninja/linux/x64/ninja cmTC_a7eb9 && [1/2] Building CXX object CMakeFiles/cmTC_a7eb9.dir/CMakeCXXCompilerABI.cpp.o
+Run Build Command(s):/home/miaokeda/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.174/bin/ninja/linux/x64/ninja cmTC_addee && [1/2] Building CXX object CMakeFiles/cmTC_addee.dir/CMakeCXXCompilerABI.cpp.o
 clang version 15.0.7
 Target: x86_64-pc-linux-gnu
 Thread model: posix
@@ -185,7 +185,7 @@ Candidate multilib: .;@m64
 Candidate multilib: 32;@m32
 Selected multilib: .;@m64
  (in-process)
- "/usr/bin/clang-15" -cc1 -triple x86_64-pc-linux-gnu -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=gdb -v "-fcoverage-compilation-dir=/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-cibGEu" -resource-dir /usr/lib/clang/15.0.7 -dependency-file CMakeFiles/cmTC_a7eb9.dir/CMakeCXXCompilerABI.cpp.o.d -MT CMakeFiles/cmTC_a7eb9.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -internal-isystem /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../include/c++/12.2.1 -internal-isystem /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../include/c++/12.2.1/x86_64-pc-linux-gnu -internal-isystem /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../include/c++/12.2.1/backward -internal-isystem /usr/lib/clang/15.0.7/include -internal-isystem /usr/local/include -internal-isystem /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../x86_64-pc-linux-gnu/include -internal-externc-isystem /include -internal-externc-isystem /usr/include -fdeprecated-macro "-fdebug-compilation-dir=/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-cibGEu" -ferror-limit 19 -stack-protector 2 -fgnuc-version=4.2.1 -fcxx-exceptions -fexceptions -fcolor-diagnostics -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_a7eb9.dir/CMakeCXXCompilerABI.cpp.o -x c++ /home/miaokeda/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.174/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp
+ "/usr/bin/clang-15" -cc1 -triple x86_64-pc-linux-gnu -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=gdb -v "-fcoverage-compilation-dir=/home/miaokeda/Documents/notes/编译原理/实验二/TINY Scanner/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-MpdrC3" -resource-dir /usr/lib/clang/15.0.7 -dependency-file CMakeFiles/cmTC_addee.dir/CMakeCXXCompilerABI.cpp.o.d -MT CMakeFiles/cmTC_addee.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -internal-isystem /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../include/c++/12.2.1 -internal-isystem /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../include/c++/12.2.1/x86_64-pc-linux-gnu -internal-isystem /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../include/c++/12.2.1/backward -internal-isystem /usr/lib/clang/15.0.7/include -internal-isystem /usr/local/include -internal-isystem /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../x86_64-pc-linux-gnu/include -internal-externc-isystem /include -internal-externc-isystem /usr/include -fdeprecated-macro "-fdebug-compilation-dir=/home/miaokeda/Documents/notes/编译原理/实验二/TINY Scanner/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-MpdrC3" -ferror-limit 19 -stack-protector 2 -fgnuc-version=4.2.1 -fcxx-exceptions -fexceptions -fcolor-diagnostics -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_addee.dir/CMakeCXXCompilerABI.cpp.o -x c++ /home/miaokeda/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.174/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp
 clang -cc1 version 15.0.7 based upon LLVM 15.0.7 default target x86_64-pc-linux-gnu
 ignoring nonexistent directory "/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../x86_64-pc-linux-gnu/include"
 ignoring nonexistent directory "/include"
@@ -198,7 +198,7 @@ ignoring nonexistent directory "/include"
  /usr/local/include
  /usr/include
 End of search list.
-[2/2] Linking CXX executable cmTC_a7eb9
+[2/2] Linking CXX executable cmTC_addee
 clang version 15.0.7
 Target: x86_64-pc-linux-gnu
 Thread model: posix
@@ -209,7 +209,7 @@ Selected GCC installation: /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1
 Candidate multilib: .;@m64
 Candidate multilib: 32;@m32
 Selected multilib: .;@m64
- "/usr/bin/ld" -pie --build-id --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_a7eb9 /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/Scrt1.o /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/crti.o /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/crtbeginS.o -L/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1 -L/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/lib -L/usr/lib CMakeFiles/cmTC_a7eb9.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/crtendS.o /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/crtn.o
+ "/usr/bin/ld" -pie --build-id --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_addee /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/Scrt1.o /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/crti.o /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/crtbeginS.o -L/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1 -L/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/lib -L/usr/lib CMakeFiles/cmTC_addee.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/crtendS.o /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/crtn.o
 
 
 
@@ -234,9 +234,9 @@ Parsed CXX implicit include dir info from above output: rv=done
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld\.lld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-cibGEu]
+  ignore line: [Change Dir: /home/miaokeda/Documents/notes/编译原理/实验二/TINY Scanner/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-MpdrC3]
   ignore line: []
-  ignore line: [Run Build Command(s):/home/miaokeda/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.174/bin/ninja/linux/x64/ninja cmTC_a7eb9 && [1/2] Building CXX object CMakeFiles/cmTC_a7eb9.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [Run Build Command(s):/home/miaokeda/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.174/bin/ninja/linux/x64/ninja cmTC_addee && [1/2] Building CXX object CMakeFiles/cmTC_addee.dir/CMakeCXXCompilerABI.cpp.o]
   ignore line: [clang version 15.0.7]
   ignore line: [Target: x86_64-pc-linux-gnu]
   ignore line: [Thread model: posix]
@@ -251,7 +251,7 @@ Parsed CXX implicit link information from above output:
   ignore line: [Selected multilib: .]
   ignore line: [@m64]
   ignore line: [ (in-process)]
-  ignore line: [ "/usr/bin/clang-15" -cc1 -triple x86_64-pc-linux-gnu -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=gdb -v "-fcoverage-compilation-dir=/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-cibGEu" -resource-dir /usr/lib/clang/15.0.7 -dependency-file CMakeFiles/cmTC_a7eb9.dir/CMakeCXXCompilerABI.cpp.o.d -MT CMakeFiles/cmTC_a7eb9.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -internal-isystem /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../include/c++/12.2.1 -internal-isystem /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../include/c++/12.2.1/x86_64-pc-linux-gnu -internal-isystem /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../include/c++/12.2.1/backward -internal-isystem /usr/lib/clang/15.0.7/include -internal-isystem /usr/local/include -internal-isystem /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../x86_64-pc-linux-gnu/include -internal-externc-isystem /include -internal-externc-isystem /usr/include -fdeprecated-macro "-fdebug-compilation-dir=/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-cibGEu" -ferror-limit 19 -stack-protector 2 -fgnuc-version=4.2.1 -fcxx-exceptions -fexceptions -fcolor-diagnostics -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_a7eb9.dir/CMakeCXXCompilerABI.cpp.o -x c++ /home/miaokeda/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.174/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [ "/usr/bin/clang-15" -cc1 -triple x86_64-pc-linux-gnu -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -pic-is-pie -mframe-pointer=all -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=gdb -v "-fcoverage-compilation-dir=/home/miaokeda/Documents/notes/编译原理/实验二/TINY Scanner/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-MpdrC3" -resource-dir /usr/lib/clang/15.0.7 -dependency-file CMakeFiles/cmTC_addee.dir/CMakeCXXCompilerABI.cpp.o.d -MT CMakeFiles/cmTC_addee.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -internal-isystem /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../include/c++/12.2.1 -internal-isystem /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../include/c++/12.2.1/x86_64-pc-linux-gnu -internal-isystem /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../include/c++/12.2.1/backward -internal-isystem /usr/lib/clang/15.0.7/include -internal-isystem /usr/local/include -internal-isystem /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../x86_64-pc-linux-gnu/include -internal-externc-isystem /include -internal-externc-isystem /usr/include -fdeprecated-macro "-fdebug-compilation-dir=/home/miaokeda/Documents/notes/编译原理/实验二/TINY Scanner/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-MpdrC3" -ferror-limit 19 -stack-protector 2 -fgnuc-version=4.2.1 -fcxx-exceptions -fexceptions -fcolor-diagnostics -faddrsig -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_addee.dir/CMakeCXXCompilerABI.cpp.o -x c++ /home/miaokeda/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.174/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp]
   ignore line: [clang -cc1 version 15.0.7 based upon LLVM 15.0.7 default target x86_64-pc-linux-gnu]
   ignore line: [ignoring nonexistent directory "/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../x86_64-pc-linux-gnu/include"]
   ignore line: [ignoring nonexistent directory "/include"]
@@ -264,7 +264,7 @@ Parsed CXX implicit link information from above output:
   ignore line: [ /usr/local/include]
   ignore line: [ /usr/include]
   ignore line: [End of search list.]
-  ignore line: [[2/2] Linking CXX executable cmTC_a7eb9]
+  ignore line: [[2/2] Linking CXX executable cmTC_addee]
   ignore line: [clang version 15.0.7]
   ignore line: [Target: x86_64-pc-linux-gnu]
   ignore line: [Thread model: posix]
@@ -278,7 +278,7 @@ Parsed CXX implicit link information from above output:
   ignore line: [@m32]
   ignore line: [Selected multilib: .]
   ignore line: [@m64]
-  link line: [ "/usr/bin/ld" -pie --build-id --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_a7eb9 /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/Scrt1.o /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/crti.o /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/crtbeginS.o -L/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1 -L/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/lib -L/usr/lib CMakeFiles/cmTC_a7eb9.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/crtendS.o /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/crtn.o]
+  link line: [ "/usr/bin/ld" -pie --build-id --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_addee /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/Scrt1.o /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/crti.o /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/crtbeginS.o -L/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1 -L/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/lib -L/usr/lib CMakeFiles/cmTC_addee.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/crtendS.o /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/crtn.o]
     arg [/usr/bin/ld] ==> ignore
     arg [-pie] ==> ignore
     arg [--build-id] ==> ignore
@@ -288,7 +288,7 @@ Parsed CXX implicit link information from above output:
     arg [-dynamic-linker] ==> ignore
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_a7eb9] ==> ignore
+    arg [cmTC_addee] ==> ignore
     arg [/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/Scrt1.o] ==> obj [/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/Scrt1.o]
     arg [/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/crti.o] ==> obj [/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/../../../../lib64/crti.o]
     arg [/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/crtbeginS.o] ==> obj [/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/12.2.1/crtbeginS.o]
@@ -298,7 +298,7 @@ Parsed CXX implicit link information from above output:
     arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
     arg [-L/lib] ==> dir [/lib]
     arg [-L/usr/lib] ==> dir [/usr/lib]
-    arg [CMakeFiles/cmTC_a7eb9.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_addee.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lstdc++] ==> lib [stdc++]
     arg [-lm] ==> lib [m]
     arg [-lgcc_s] ==> lib [gcc_s]
