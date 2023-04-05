@@ -1,0 +1,3 @@
+/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/cmake-build-debug/CMakeFiles/TINY.dir
+/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/cmake-build-debug/CMakeFiles/rebuild_cache.dir

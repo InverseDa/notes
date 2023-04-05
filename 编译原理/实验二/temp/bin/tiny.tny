@@ -1,0 +1,13 @@
+string str;
+int x, fact;
+str:= 'sample program in TINY+ language- computes factoria$l' ;
+$
+read x;
+if x>0 and x<100 then {don’t compute if x<=0
+	fact:=1;
+	do
+		fact:=fact*x;
+		x:=x-1;
+	while x>0;
+	write fact;}
+end

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/build",
+  "command": "/usr/bin/clang -I\"/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/include\" -g -o CMakeFiles/TINY.dir/src/main.c.o -c \"/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/src/main.c\"",
+  "file": "/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/src/main.c",
+  "output": "CMakeFiles/TINY.dir/src/main.c.o"
+},
+{
+  "directory": "/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/build",
+  "command": "/usr/bin/clang -I\"/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/include\" -g -o CMakeFiles/TINY.dir/src/scan.c.o -c \"/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/src/scan.c\"",
+  "file": "/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/src/scan.c",
+  "output": "CMakeFiles/TINY.dir/src/scan.c.o"
+},
+{
+  "directory": "/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/build",
+  "command": "/usr/bin/clang -I\"/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/include\" -g -o CMakeFiles/TINY.dir/src/util.c.o -c \"/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/src/util.c\"",
+  "file": "/home/miaokeda/Projects/CLionProjects/Compilers Principles/lab2/docs/TINY Scanner/src/util.c",
+  "output": "CMakeFiles/TINY.dir/src/util.c.o"
+}
+]
