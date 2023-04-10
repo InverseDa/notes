@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/E2OPXd16YW5CTVKbbhIn3Ag63eRiApghConNoN94xq0akZ/f9S5KauLpveLWEmdtqy/v0ONapvcUCZ4ME3M9Q==",
+  "success": true,
+  "projectFilePath": "F:\\Project\\NetworkPrograming-2-3\\NetworkPrograming-2-3\\NetworkPrograming-2-3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miaokeda\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\miaokeda\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\miaokeda\\.nuget\\packages\\wpf-ui\\2.0.3\\wpf-ui.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

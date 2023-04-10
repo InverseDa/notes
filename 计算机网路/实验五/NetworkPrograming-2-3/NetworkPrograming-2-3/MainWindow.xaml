@@ -1,0 +1,47 @@
+﻿<Window x:Class="NetworkPrograming_2_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
+        xmlns:local="clr-namespace:NetworkPrograming_2_3"
+        mc:Ignorable="d"
+        Title="2020274045缪克达实验五-2-3" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="0" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="auto" />
+            </Grid.RowDefinitions>
+            <ScrollViewer Grid.Row="0" Name="chatLogScrollViewerA">
+                <StackPanel Name="chatLogStackPanelA" />
+            </ScrollViewer>
+            <StackPanel Grid.Row="1" Orientation="Horizontal">
+                <TextBox Name="messageTextBoxA" MinWidth="200" Margin="5" />
+                <Button Name="sendButtonA" Content="Send" Click="sendButton_ClickA" Margin="5" />
+                <Button Name="clearButtonA" Content="Clear" Click="clearButton_ClickA" Margin="5" />
+            </StackPanel>
+        </Grid>
+
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="auto" />
+            </Grid.RowDefinitions>
+            <ScrollViewer Grid.Row="0" Name="chatLogScrollViewerB">
+                <StackPanel Name="chatLogStackPanelB" />
+            </ScrollViewer>
+            <StackPanel Grid.Row="1" Orientation="Horizontal">
+                <TextBox Name="messageTextBoxB" MinWidth="200" Margin="5" />
+                <Button Name="sendButtonB" Content="Send" Click="sendButton_ClickB" Margin="5" />
+                <Button Name="clearButtonB" Content="Clear" Click="clearButton_ClickB" Margin="5" />
+            </StackPanel>
+        </Grid>
+        
+    </Grid>
+</Window>

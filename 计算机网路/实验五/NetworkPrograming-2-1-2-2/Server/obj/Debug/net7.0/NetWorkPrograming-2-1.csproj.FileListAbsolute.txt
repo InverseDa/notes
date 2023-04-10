@@ -1,0 +1,15 @@
+/home/miaokeda/Projects/RiderProjects/NetWorkPrograming-2-1/NetWorkPrograming-2-1/bin/Debug/net7.0/NetWorkPrograming-2-1
+/home/miaokeda/Projects/RiderProjects/NetWorkPrograming-2-1/NetWorkPrograming-2-1/bin/Debug/net7.0/NetWorkPrograming-2-1.deps.json
+/home/miaokeda/Projects/RiderProjects/NetWorkPrograming-2-1/NetWorkPrograming-2-1/bin/Debug/net7.0/NetWorkPrograming-2-1.runtimeconfig.json
+/home/miaokeda/Projects/RiderProjects/NetWorkPrograming-2-1/NetWorkPrograming-2-1/bin/Debug/net7.0/NetWorkPrograming-2-1.dll
+/home/miaokeda/Projects/RiderProjects/NetWorkPrograming-2-1/NetWorkPrograming-2-1/bin/Debug/net7.0/NetWorkPrograming-2-1.pdb
+/home/miaokeda/Projects/RiderProjects/NetWorkPrograming-2-1/NetWorkPrograming-2-1/obj/Debug/net7.0/NetWorkPrograming-2-1.csproj.AssemblyReference.cache
+/home/miaokeda/Projects/RiderProjects/NetWorkPrograming-2-1/NetWorkPrograming-2-1/obj/Debug/net7.0/NetWorkPrograming-2-1.GeneratedMSBuildEditorConfig.editorconfig
+/home/miaokeda/Projects/RiderProjects/NetWorkPrograming-2-1/NetWorkPrograming-2-1/obj/Debug/net7.0/NetWorkPrograming-2-1.AssemblyInfoInputs.cache
+/home/miaokeda/Projects/RiderProjects/NetWorkPrograming-2-1/NetWorkPrograming-2-1/obj/Debug/net7.0/NetWorkPrograming-2-1.AssemblyInfo.cs
+/home/miaokeda/Projects/RiderProjects/NetWorkPrograming-2-1/NetWorkPrograming-2-1/obj/Debug/net7.0/NetWorkPrograming-2-1.csproj.CoreCompileInputs.cache
+/home/miaokeda/Projects/RiderProjects/NetWorkPrograming-2-1/NetWorkPrograming-2-1/obj/Debug/net7.0/NetWorkPrograming-2-1.dll
+/home/miaokeda/Projects/RiderProjects/NetWorkPrograming-2-1/NetWorkPrograming-2-1/obj/Debug/net7.0/refint/NetWorkPrograming-2-1.dll
+/home/miaokeda/Projects/RiderProjects/NetWorkPrograming-2-1/NetWorkPrograming-2-1/obj/Debug/net7.0/NetWorkPrograming-2-1.pdb
+/home/miaokeda/Projects/RiderProjects/NetWorkPrograming-2-1/NetWorkPrograming-2-1/obj/Debug/net7.0/NetWorkPrograming-2-1.genruntimeconfig.cache
+/home/miaokeda/Projects/RiderProjects/NetWorkPrograming-2-1/NetWorkPrograming-2-1/obj/Debug/net7.0/ref/NetWorkPrograming-2-1.dll
