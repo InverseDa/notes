@@ -1,0 +1,3 @@
+/Users/miaokeda/Documents/notes/编译原理/实验二/TINY Scanner/build/CMakeFiles/TINY.dir
+/Users/miaokeda/Documents/notes/编译原理/实验二/TINY Scanner/build/CMakeFiles/edit_cache.dir
+/Users/miaokeda/Documents/notes/编译原理/实验二/TINY Scanner/build/CMakeFiles/rebuild_cache.dir
